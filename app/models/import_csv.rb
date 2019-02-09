@@ -4,7 +4,7 @@ class ImportCsv < ApplicationRecord
 			User.create(
 				name: row["name"],
 				age: row["age"],
-				address: ["address"]
+				address: row["address"]
 			)
 		end
 	end
