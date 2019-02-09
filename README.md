@@ -1,24 +1,14 @@
-# README
+# CSVインポート機能の実装
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 機能概要
+事前に準備したCSVファイルのデータをDBに取り込む機能
 
-Things you may want to cover:
+## 実装メモ
+* 
+* 
+* 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 学習メモ
+* 実践的に使う場合、インポートの前に初期化するロジックが必要
+* 
+* 
